@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  # 💫About Me :
-호기심이 많은 백엔드 개발자 이재원 입니다 :D
+호기심이 많은 백엔드 개발자가 되고싶은 이재원 입니다 :D
 
 # 💻Tech Stack
 
@@ -34,5 +34,4 @@ Here are some ideas to get you started:
 # 📊GitHub Stats :
 ![jaeweon's github stats](https://github-readme-stats.vercel.app/api?username=jaeweon&show_icons=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeweon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeweon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
