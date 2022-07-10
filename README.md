@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  # 💫About Me :
 호기심이 많은 백엔드 개발자가 되고싶은 이재원 입니다 :D
 
-<h3 align="center"># 💻Tech Stack</h3>
+<h3 align="center">💻Tech Stack</h3>
 
 <p align="center">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
