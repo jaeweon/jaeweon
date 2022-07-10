@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat&logo=Spring Boot&logoColor=white&">
 
 # 📊GitHub Stats :
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeweon&theme=Gradient&show_icons=true)
-
 ![jaeweon's github stats](https://github-readme-stats.vercel.app/api?username=jaeweon&show_icons=true)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeweon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeweon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
