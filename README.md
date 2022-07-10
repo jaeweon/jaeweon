@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=jaeweon&fontSize=70&animation=twinkling)
+<p align="center">🇰🇷</p>
 <!--
 **jaeweon/jaeweon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +17,9 @@ Here are some ideas to get you started:
  # 💫About Me :
 호기심이 많은 백엔드 개발자가 되고싶은 이재원 입니다 :D
 
-# 💻Tech Stack
+<h3 align="center"># 💻Tech Stack</h3>
 
+<p align="center">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
 <img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat&logo=Spring Boot&logoColor=white&">
-
+</p>
 # 📊GitHub Stats :
 ![jaeweon's github stats](https://github-readme-stats.vercel.app/api?username=jaeweon&show_icons=true)
 <br>
