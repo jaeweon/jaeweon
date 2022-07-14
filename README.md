@@ -36,7 +36,9 @@
 
 <div align="center">
 <h2>🎈How to contact🎈</h2>
-<h3>none</h3>
+📜Certificated : Korea IT program in Seoul<br>
+💌Email : fhfkfk789@naver.com<br>
+👀Notion : https://www.notion.so/Backend-Developer-62fdc7ac9e88416a9949874d81735f8b<br>
  </div>
 
 # 📊GitHub Stats :
