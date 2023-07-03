@@ -38,7 +38,7 @@
 <h2>🎈How to contact🎈</h2>
 📜Certificated : Zero Base / Korea IT program in Seoul<br>
 💌Email : fhfkfk789@naver.com<br>
-👀blog : <br>
+👀blog : https://backendeveloper.tistory.com/<br>
  </div>
 
 # 📊GitHub Stats :
