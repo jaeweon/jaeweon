@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/></a> &nbsp
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=typescript&logoColor=%23F7DF1E"/></a> &nbsp
+  <img src="https://img.shields.io/badge/typescript%23323330.svg?style=flat&logo=typescript&logoColor=%23F7DF1E"/></a> &nbsp
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"></a> &nbsp
    <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>&nbsp 
   <br>
