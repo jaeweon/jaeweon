@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=JAEWEON_LEE&fontSize=60)<br>
 
  # 💫About Me :
-"꾸준함"이라는 오아시스에 빠져버린, 백엔드 개발자 이재원 입니다 :D
+"꾸준함" 이라는 오아시스에 빠져버린, 백엔드 개발자 이재원 입니다 :D
 
 <h3 align="center">💻Tech Stack</h3>
 
