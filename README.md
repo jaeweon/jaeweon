@@ -37,9 +37,7 @@
 </div>
 
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
+	<h2>🎨 SNS & Portfolio 🎨</h2>
 	<a href="">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
