@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=%23F7DF1E"/></a> &nbsp
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"></a> &nbsp
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>&nbsp 
-  <br>
+  <br> 
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat&logo=Spring Boot&logoColor=white&"></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"></a>&nbsp 
