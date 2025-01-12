@@ -2,8 +2,7 @@
 
  # 💫About Me :
 "꾸준함" 이라는 오아시스에 빠져버린, 백엔드 개발자 이재원 입니다 :D 
-<h3 align="center"> 🏙 Company : 
-	MADNGINE[메드엔진]</a><br></h3>
+<h3 align="center"> 🏙 Company : </a><br></h3>
 <h3 align="center">💻Tech Stack</h3> 
    
 <p align="center">
