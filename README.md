@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>&nbsp 
   <br> 
   
-  <img src="https://img.shields.io/badge/spring-%232F3E.svg?style=flat&logo=aws&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat&logo=Spring Boot&logoColor=white&"></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"></a>&nbsp 
