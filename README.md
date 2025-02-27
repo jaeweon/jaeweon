@@ -7,12 +7,9 @@
    
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-%23E34F26.svg?style=flat&logo=Kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=%23F7DF1E"/></a>&nbsp
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>&nbsp 
   <br> 
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat&logo=Spring Boot&logoColor=white&"></a>&nbsp 
