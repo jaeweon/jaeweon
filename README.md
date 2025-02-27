@@ -44,7 +44,7 @@
 	<a href="https://backendeveloper.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="">
+	<a href="https://chill-alarm-7f1.notion.site/BACKEND-ENGINEER-0bb5ee0f4d6e462083f6dac251fa3504">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
