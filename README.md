@@ -46,7 +46,6 @@
 <ul>
   <li>Email : fhfkfk789@naver.com</li>
   <li>Blog : <a href="https://backendeveloper.tistory.com">https://backendeveloper.tistory.com/</a></li>
-  <li>notion : <a href="https://buly.kr/6igas1s">https://buly.kr/6igas1s/</a></li>
 </ul>
 
 ---
