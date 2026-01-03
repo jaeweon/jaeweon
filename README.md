@@ -1,4 +1,4 @@
-# 개발자가 되기 위해 프로그래머가 되었습니다.
+# To Be Tech Leader
 
 <div align=left>
   
